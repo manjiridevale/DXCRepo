@@ -1,5 +1,5 @@
-x = 100;
-y = 200;
+x = 100
+y = 200
 
-z= x+y ;
-print("the value is " + z);
+print(x*y) 
+print("Hello Everyone - we are learning Jenkn + GIThub + Jfrog ")
